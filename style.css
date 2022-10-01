@@ -181,6 +181,7 @@ body {
 @media screen and (max-width:400px) {
     .profile-container{
         width: 300px;
+        margin: 100px 0;
     }
     .social-container{
         gap: 20px;
